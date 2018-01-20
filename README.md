@@ -1,5 +1,5 @@
 # pumpbot
-PHP pump bot for bittrex exchange
+PHP bot for participating in pumps on bittrex exchange. Just run this script before a pump's start.
 
 ## Usage
 `php pump_capitan_volume.php`
